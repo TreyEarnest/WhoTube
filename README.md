@@ -7,8 +7,8 @@ App is coded in React with simple style with semantic-ui. I grabbeed a free API 
 ### Future Changes
 <ol>
   <li>Comment Section</li>
-  <li>Imporved styling</li>
   <li>Like and Dislike buttons</li>
+  <li>Imporved styling</li>
 </ol>
 
 ### Screenshots
